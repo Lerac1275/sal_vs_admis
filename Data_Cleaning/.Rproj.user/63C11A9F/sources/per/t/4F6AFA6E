@@ -1,0 +1,26 @@
+{
+    "id": "4F6AFA6E",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1637479579355.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "id": "29acbddda9c84cad9088bcb7e5c1785a",
+        "name": "admissions_tables",
+        "title": "admissions_tables",
+        "source_window_id": "w2es3s8yxls61"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 193273528347,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1637479579355,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,25 @@
+{
+    "id": "94F3C27C",
+    "path": "~/Desktop/Self-Learning/Tableau/Uni Data/Data_Cleaning/New_Data_Cleaning.Rmd",
+    "project_path": "New_Data_Cleaning.Rmd",
+    "type": "r_markdown",
+    "hash": "2428242928",
+    "contents": "",
+    "dirty": false,
+    "created": 1636029317253.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "645,21",
+        "scrollLine": "631"
+    },
+    "folds": "0|3|5|0|\n7|27|9|0|\n11|22|27|0|\n30|17|42|0|\n45|24|65|0|\n48|34|53|0|\n55|48|63|0|\n67|0|81|0|\n83|22|149|0|\n151|29|251|0|\n297|22|369|0|\n371|29|445|0|\n447|24|482|0|\n486|22|532|0|\n534|29|594|0|\n596|24|628|0|\n",
+    "lastKnownWriteTime": 1637488598,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1637488598122,
+    "read_only": false,
+    "read_only_alternatives": []
+}
