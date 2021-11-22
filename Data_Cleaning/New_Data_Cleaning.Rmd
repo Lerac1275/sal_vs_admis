@@ -29,7 +29,7 @@ library(openxlsx)
 Obtaining the raw data that will be used later on
 ```{r data_setup}
 # GES Data
-ges_raw <- read_excel("/Users/carelchay/OneDrive - National University of Singapore/GES Results.xlsx", sheet = 1)
+ges_raw <- read_excel("../GES Data/GES_Raw.xlsx", sheet = 1)
 
 # Admissions Information #
 # Admissions info is scraped from this google sheet
