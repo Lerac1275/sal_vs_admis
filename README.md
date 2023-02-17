@@ -1,6 +1,8 @@
 # sal_vs_admis
- 
-This repository contains the R & Excel files used to clean the GES & admissions data for NUS / NTU / SMU
+
+This repo contains the files used to create [this dashboard](https://public.tableau.com/app/profile/carel6896/viz/GESAdmissions/ComparisonDashboard). Try it out for yourself!
+
+It includes R & Excel files used to clean the GES & admissions data for NUS / NTU / SMU
 
 Also includes the tableau workbook containing an interactive dashboard based on the clean data.
 
